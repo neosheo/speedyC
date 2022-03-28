@@ -1,3 +1,5 @@
+#!/bin/bash
+
 dir=`pwd`
 
 for cfile in "$dir"/*
